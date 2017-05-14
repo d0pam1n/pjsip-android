@@ -33,7 +33,7 @@ ext {
     bintrayRepo = 'pjsip-android'
     bintrayName = 'pjsip-android'
 
-    publishedGroupId = 'com.d0pam1n'
+    publishedGroupId = 'de.d0pam1n'
     libraryName = 'pjsip-android'
     artifact = 'pjsip-android'
 
