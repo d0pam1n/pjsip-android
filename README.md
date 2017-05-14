@@ -3,6 +3,8 @@ This is the famous PJSIP library compiled for Android. For more information abou
 
 The current version of this library is 2.6.
 
+THE LIBRARY IS NOT AVAILABLE ON JCENTER RIGHT NOW. I HAVE SOME PROBLEMS WITH MY ACCOUNT THERE!!!
+
 # Reporting issues
 Please contact the PJSIP team directly. I´m only compiling and publishing PJSIP for Android on JCenter.
 
