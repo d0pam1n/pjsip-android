@@ -30,21 +30,21 @@ dependencies {
 }
 
 ext {
-    bintrayRepo = 'pjsip-android'
-    bintrayName = 'pjsip-android'
+    bintrayRepo = 'pjsip-for-android'
+    bintrayName = 'pjsip-for-android'
 
     publishedGroupId = 'de.d0pam1n'
-    libraryName = 'pjsip-android'
-    artifact = 'pjsip-android'
+    libraryName = 'pjsip-for-android'
+    artifact = 'pjsip-for-android'
 
-    libraryDescription = 'PJSIP for Android'
+    libraryDescription = 'PJSIP library for Android'
 
-    siteUrl = 'https://github.com/AndreasPfister/pjsip-android'
-    gitUrl = 'https://github.com/AndreasPfister/pjsip-android.git'
+    siteUrl = 'https://github.com/d0pam1n/pjsip-android'
+    gitUrl = 'https://github.com/d0pam1n/pjsip-android.git'
 
     libraryVersion = '2.6'
 
-    developerId = 'andreaspfister'
+    developerId = 'd0pam1n'
     developerName = 'Andreas Pfister'
     developerEmail = 'andi.dopamin@gmail.com'
 

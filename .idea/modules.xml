@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PjsipLib.iml" filepath="$PROJECT_DIR$/PjsipLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pjsip-android/pjsip-android.iml" filepath="$PROJECT_DIR$/pjsip-android/pjsip-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pjsip-for-android/pjsip-for-android.iml" filepath="$PROJECT_DIR$/pjsip-for-android/pjsip-for-android.iml" />
     </modules>
   </component>
 </project>
