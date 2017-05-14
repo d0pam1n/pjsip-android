@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/pjsip" />
+            <option value="$PROJECT_DIR$/pjsip-android" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
